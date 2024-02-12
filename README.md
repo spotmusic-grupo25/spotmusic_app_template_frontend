@@ -9,8 +9,7 @@ Esse repositório tem como objetivo descrever um pouco da aplicação a que ele 
 <hr>
 
 <b>Tecnologia:</b>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" />
           
 <hr>
 <h3>Objetivo:</h3>
