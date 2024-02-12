@@ -38,8 +38,3 @@ Esse repositório tem como objetivo descrever um pouco da aplicação a que ele 
     <li>Feature/__nome_da_funcionalidade - branch para desenvolvimento e testes locais de novas funcionalidades
         <li>Feature/__nome_da_funcionalidade - branch para desenvolvimento e testes locais de correção de bugs
 </ul>
-
-
-![alt text](image.png)
-
-
